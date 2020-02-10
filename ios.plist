@@ -11,40 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-                    <!--         ！！！安装包地址           -->
-					<string>https://github.com/yly8848/IOSTest/blob/master/oms.ipa</string>
+					<string>http://47.101.206.150/oms.ipa</string>
 				</dict>
-				<!-- <dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://img3.100bt.com/upload/ttq/20140523/1400836956582_middle.jpg</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://img3.100bt.com/upload/ttq/20140523/1400836956582_middle.jpg</string>
-				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-                <!--         bundle identifier           -->
 				<string>com.chinalco.hse</string>
 				<key>bundle-version</key>
-                <!--         bundle version           -->
-				<string>1.1.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>Install App Subtitle</string>
 				<key>title</key>
-				<string>Install App Title</string>
+				<string>Oms App download</string>
 			</dict>
 		</dict>
 	</array>
