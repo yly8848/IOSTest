@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
                     <!--         ！！！安装包地址           -->
-					<string>https://tengfenglian.github.io/InstallIpa/PushDemo.ipa</string>
+					<string>https://github.com/yly8848/IOSTest/blob/master/oms.ipa</string>
 				</dict>
 				<!-- <dict>
 					<key>kind</key>
